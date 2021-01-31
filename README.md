@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshita Sharma</h1>
+<h1 align="center">Hi 👋, I'm Harshita Sharma 😊</h1>
 <h3 align="center">An IT Sophomore who loves to learn,explore new skills and take up new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-28&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-28" /> </p>
