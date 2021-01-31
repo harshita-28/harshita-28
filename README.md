@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-28&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-28" /> </p>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif">
 
+- 📫 How to reach me **harshitadimpy@gmail.com**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshita-28" alt="harshita-28" /></a> </p>
 
-- 📫 How to reach me **harshitadimpy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
