@@ -6,7 +6,7 @@
  <h2 align="center">About Me</h2>
 <h3>- 👩‍🎓 An IT Student </h3>
 <h3>- 💻 Interested in Web Development</h3>
-<h3>- 📫 How to reach me : hridya2808@gmail.com </h3>
+<h3>- 📫 How to reach me : sharshita2810@gmail.com </h3>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshita-28" alt="harshita-28" /></a> </p>
 
